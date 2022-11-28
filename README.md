@@ -1,5 +1,3 @@
-<h1 align="left"> Hi, I'm David 👋 </h1>
-
 <img src="DavidHiThere.png" alt="David Toranzo">
 
 <p>
