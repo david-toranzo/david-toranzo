@@ -1,7 +1,8 @@
 <img src="DavidHiThere.png" alt="David Toranzo">
 
 <p>
-I'm Unity developer and computer science student. I love the video games, I learned by myself and in 2022 I started working in a professional team as Unity Developer. I consider myself a lover of clean code and sports. In my free time I made games and participate in jams.
+I'm Unity developer and Computer Science Student and I love videogames and create them.
+I consider myself a lover of clean code and sports. In my free time I made games and participate in jams.
 </p>
 <p> 🔭 I’m currently using Unity, with the best practices and clean code. </p>
 <p> 🌱 I’m currently learning of AR, patterns and Playfab</p>
