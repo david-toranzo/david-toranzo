@@ -1,12 +1,10 @@
 <h1 align="left"> Hi, I'm David 👋 </h1>
 
-<img src="DavidHiThere.jpg" alt="David Toranzo">
+<img src="DavidHiThere.png" alt="David Toranzo">
 
 <p>
 I'm Unity developer and computer science student. I love the video games, I learned by myself and in 2022 I started working in a professional team. I consider myself a lover of clean code and sports. In my free time I made games and participe in jams, currently learning about AR.
 </p>
-
-<img src="pic_trulli.jpg" alt="Italian Trulli">
 
 <!--
 **david-toranzo/david-toranzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
