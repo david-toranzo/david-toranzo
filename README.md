@@ -1,6 +1,8 @@
-<h1 align="center"> Hi, I'm David 👋 </h1>
+<h1 align="left"> Hi, I'm David 👋 </h1>
 
-I'm Unity developer and computer science student.
+<p>
+I'm Unity developer and computer science student. I love the video games, I learned by myself and in 2022 I started working in a professional team. I consider myself a lover of clean code and sports. In my free time I made games and participe in jams, currently learning about AR.
+</p>
 
 <!--
 **david-toranzo/david-toranzo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
