@@ -6,8 +6,8 @@ I'm Unity developer and computer science student. I love the video games, I lear
 <p> 🔭 I’m currently using Unity, with the best practices and clean code. </p>
 <p> 🌱 I’m currently learning of AR, patterns and Playfab</p>
 <p> 💬 Social media: 
-    <h5>         Linkedin: https://www.linkedin.com/in/davidtoranzo/ </h4>
-    <h5>         Portfolio where you can find all my games: https://david-toranzo.github.io/Web-PortfolioDavidT/ </h4>
+    <h5>        📫 Linkedin: https://www.linkedin.com/in/davidtoranzo/ </h4>
+    <h5>        ⚡ Portfolio where you can find all my games: https://david-toranzo.github.io/Web-PortfolioDavidT/ </h4>
 </p>
 
 <!--
