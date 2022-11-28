@@ -1,4 +1,4 @@
-<em> # Hi, I'm David 👋 </em>
+<h1 align="center"> Hi, I'm David 👋 </h1>
 
 I'm Unity developer and computer science student.
 
